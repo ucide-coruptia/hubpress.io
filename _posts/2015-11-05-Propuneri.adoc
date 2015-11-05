@@ -1,4 +1,6 @@
 = Propuneri
 
+:hp-image: univ.jpg
+
 image::banner.jpg[]
  
