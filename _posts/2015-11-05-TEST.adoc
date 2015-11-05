@@ -1,1 +1,4 @@
 = TEST
+
+
+![Large image](http://i.imgur.com/3CLoHFQ.jpg#large)
