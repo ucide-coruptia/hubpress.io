@@ -1,3 +1,4 @@
 = TEST
 
-![Large image](http://i.imgur.com/3CLoHFQ.jpg)
+image::banner.jpg[]
+ 
